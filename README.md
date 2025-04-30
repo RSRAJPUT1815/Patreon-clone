@@ -41,6 +41,8 @@ This repository contains a clone of the Patreon platform, built to replicate its
 5. Start the development server:
     ```bash
     npm start
+    or
+    npm run dev
     ```
 
 ## Usage
